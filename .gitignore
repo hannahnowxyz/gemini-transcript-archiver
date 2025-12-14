@@ -1,3 +1,9 @@
-transcript*
-venv
+node_modules
+archives/*
+assets/*
+!assets/gemini-icon.svg
+!assets/noto-emoji-sparkles.svg
+*.html
+bookmarklet.url
+aicontext.txt
 

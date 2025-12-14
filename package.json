@@ -1,0 +1,12 @@
+{
+  "name": "gemini-transcript-archiver",
+  "description": "Scripts and documentation for archiving conversations with Gemini (via gemini.google.com/app).",
+  "scripts": {
+    "minify": "node minify.js",
+    "finalize": "node finalize.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "terser": "^5.44.1"
+  }
+}
